@@ -1,0 +1,13 @@
+project_id = "nfeyfhcshiwbjuibmxcj"
+
+[functions.ai-reports]
+verify_jwt = true
+
+[functions.visitor-chat]
+verify_jwt = false
+
+[functions.send-inquiry]
+verify_jwt = false
+
+[functions.shop-ai-assistant]
+verify_jwt = false
