@@ -1,5 +1,7 @@
 # Remix - Business Management Platform
 
+# Live - URL https://e-commerce-n3mu.onrender.com
+
 A comprehensive business management solution built with React, TypeScript, and Supabase. Remix streamlines operations across inventory management, purchasing, sales, point of sale (POS), human resources, and more.
 
 ## 🚀 Features
